@@ -1,3 +1,6 @@
 .body{
     background-image: url("lilypads.png")
 }
+.mytextarea{
+    height: 250px;
+}
