@@ -92,3 +92,42 @@ line-height: 20px;
     max-width: 500px;
     width: 100%;
 }
+@media screen and (max-width: 980px) {
+    .about-me{
+        width: 100%;
+    }
+    .nav-wrap{
+        width: 100%;
+    }
+    .portfolio-wrapper{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .about-me{
+        width: 100%;
+    }
+    .nav-wrap{
+        width: 100%;
+    }
+    .portfolio-wrapper{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 640px) {
+    .about-me{
+        width: 100%;
+    }
+    .nav-wrap{
+        width: 100%;
+    }
+    .portfolio-wrapper{
+        width: 100%;
+    }
+}
+
+    .text-block{
+        width: 50%;
+        position: absolute;
+    }
+}
